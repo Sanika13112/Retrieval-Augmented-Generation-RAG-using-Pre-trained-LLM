@@ -1,7 +1,5 @@
 # Academic RAG Assistant — Practical No. 06
 
-A small Streamlit RAG project inspired by the workflow and structure of the reference repository:
-https://github.com/AmrutaKanse09/RAG-using-Pre-trained-LLM
 
 This is an independently written academic-domain adaptation. It uses:
 - Engineering subject notes and research papers as the domain collection
